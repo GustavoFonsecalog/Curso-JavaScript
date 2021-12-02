@@ -1,4 +1,4 @@
-# Curso-JavaScript
+# Praticando-JavaScript
 
 ### Prioridades nos estudos
 1. Estudar
